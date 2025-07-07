@@ -15,7 +15,7 @@ FITTEST - приложение для прохождения психологи�
 ### 👥 Участники команды
 
 - **Губанов Александр** — Frontend Developer  
-  [![Telegram](https://img.shields.io/badge/Telegram-@AlexGubanov-0088cc?style=flat&logo=telegram)](https://t.me/AlexGubanov)
+  [![Telegram](https://img.shields.io/badge/Telegram-@AleksandrPravdin-0088cc?style=flat&logo=telegram)](https://t.me/AleksandrPravdin)
 
 - **Агапова Нелли** — Frontend Developer  
   [![Telegram](https://img.shields.io/badge/Telegram-@Hidorysen-0088cc?style=flat&logo=telegram)](https://t.me/Hidorysen)
